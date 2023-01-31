@@ -1,6 +1,6 @@
 # Title of the Hands-on Tutorial
 
-Author:
+Author: Author name
 
 Email:
 
